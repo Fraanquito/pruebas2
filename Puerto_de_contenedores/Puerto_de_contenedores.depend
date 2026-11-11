@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1794359845 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"archivos.h"
+	"lista.h"
+
+1794426004 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\main.c
+	"interfaz/menu.h"
+
+1794359845 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\pila.c
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1794359845 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\pila.h
+	"comunes.h"
+
+1794359845 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\comunes.h
+
+1794426727 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\simulacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"simulacion.h"
+
+1794359845 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\cola.c
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1794359845 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\cola.h
+	"comunes.h"
+
+1794359845 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\arbol.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"arbol.h"
+
+1794359845 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\arbol.h
+	"comunes.h"
+
+1794425424 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1794425424 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\lista.h
+	<stdio.h>
+	"comunes.h"
+
+1794359845 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\archivos.h
+	"comunes.h"
+
+1794274554 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\arbol.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"arbol.h"
+
+1794274554 c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\arbol.h
+	"comunes.h"
+
+1794274554 c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\comunes.h
+
+1794336263 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\cola.c
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1794274554 c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\cola.h
+	"comunes.h"
+
+1794344762 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1794344781 c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\lista.h
+	<stdio.h>
+	"comunes.h"
+
+1794336679 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunes.h"
+	"simulacion.h"
+	"archivos.h"
+
+1794345228 c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\archivos.h
+	"comunes.h"
+
+1794274554 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\pila.c
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1794274554 c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\pila.h
+	"comunes.h"
+
+1794345255 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\simulacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"simulacion.h"
+
+1794345228 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"archivos.h"
+	"lista.h"
+
+1794344676 c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\simulacion.h
+	"comunes.h"
+	"archivos.h"
+	"cola.h"
+	"pila.h"
+	"lista.h"
+
+1794426668 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\simulacion.h
+	"comunes.h"
+	"archivos.h"
+	"cola.h"
+	"pila.h"
+	"lista.h"
+
+1794345021 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\registros\registros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"registros.h"
+
+1794344947 c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\registros\registros.h
+	"../arbol.h"
+
+1794345228 source:c:\users\user\desktop\tp_puerto\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\interfaz\menu.c
+	"../simulacion.h"
+	"../Registros/registros.h"
+	"../arbol.h"
+
+1794426457 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\interfaz\menu.c
+	<string.h>
+	"menu.h"
+
+1794359845 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\registros\registros.h
+	"../arbol.h"
+
+1794359845 source:c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\registros\registros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"registros.h"
+
+1794425882 c:\users\zacar\desktop\tp_algoritmps_logistica\tp_algoritmos-main\tp_puerto\puerto_de_contenedores\interfaz\menu.h
+	"../comunes.h"
+	"../simulacion.h"
+	"../Registros/registros.h"
+	"../arbol.h"
+
